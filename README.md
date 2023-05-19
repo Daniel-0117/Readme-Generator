@@ -36,6 +36,8 @@ Answer the prompts that will appear in the terminal and your README file will be
 ## Final Product
 ![Final Product](./Images/READMESCREENSHOT.png)
 
+## Video of the Generator
+https://drive.google.com/file/d/1cQmrm6loCy4J7biJfySzEFV_niaOT0PV/view
 
 ## Credits
 
